@@ -55,6 +55,10 @@ const Heading = styled.h3`
 `
 
 const Profile = styled(Block)`
+  @media (max-width: 900px) {
+    padding: 15px 0 0;
+  }
+
   @media (min-width: 900px) {
     width: 70%;
   }
