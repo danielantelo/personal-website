@@ -5,6 +5,7 @@ const Wrapper = styled.div`
   border-bottom: ${props => (props.showDivider ? "0.1em solid #ddd" : "none")};
   margin-bottom: ${props => (props.showDivider ? "1em" : "0")};
   padding-bottom: ${props => (props.showDivider ? "1em" : "0")};
+  clear: both;
   &:last-of-type {
     margin-bottom: 0;
     padding-bottom: 0;
@@ -23,13 +24,13 @@ const Location = styled.div`
 const Dates = styled.div`
   font-size: 1.1rem;
   @media (min-width: 900px) {
-    float: right;
     margin-top: 8px;
+    float: right;
   }
 
   @media print {
-    float: right;
     margin-top: 8px;
+    float: right;
   }
 `
 

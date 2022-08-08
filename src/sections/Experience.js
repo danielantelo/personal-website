@@ -26,27 +26,21 @@ export default function Experience() {
           title="Engineering Manager"
           dates="October 2020 - Present"
           additionalRole
+        />
+        <HistoricalListItem
+          title="Frontend Lead Engineer"
+          location="OakNorth, London"
+          dates="September 2019 - Present"
         >
           <p>
-          Managing the delivery and career progression of ~25 engineers across 4 squads with 
-          a focus on product development and user experiences, 
-          as well as leading the Frontend Guild and providing frontend technical direction.
+          Managing the delivery, career progression and well-being of ~25 engineers across multiple cross functional squads with a focus on product development and user experiences, as well as hands-on leading the Frontend Guild and its technical direction.
           </p>
-        </HistoricalListItem>
-        <HistoricalListItem
-          title="Technical Lead"
-          location="OakNorth, London"
-          dates="September 2019 - Oct 2020"
-        >
           <p>
             <ul>
               <li>
-                Frontend chapter/guild technical lead:
+                Frontend guild technical lead:
                 <ul>
-                  <li>
-                    coordinated the frontend guild and oversaw the
-                    work to be done to improve the frontend actchitecture
-                  </li>
+                  <li>coordinated the frontend guild providing architectural direction and managing execution of frontend architectural projects and improvements</li>
                   <li>
                     architected and led the migration to micro-frontends using
                     Lerna, Yarn Workspaces and github packages and workflows
@@ -62,19 +56,14 @@ export default function Experience() {
                 </ul>
               </li>
               <li>
-                Technical lead and line manager of the Case Analysis
-                mission:
+                Technical lead and line manager of the Case Analysis and Monitoring missions:
                 <ul>
                   <li>
-                    coordinated 2 cross functional squads solving loan data normalisation and visualisation, and loan analysis and monitoring workflows (Python & React)
+                    coordinated upto 4 cross functional squads solving loan data normalisation and visualisation, and loan analysis and monitoring workflows (Python & React)
                   </li>
                   <li>
                     optimised team processes for incremental delivery and high
                     code confidence following lean/agile methodologies
-                  </li>
-                  <li>
-                    line managed 14 engineers in the above squads ensuring their
-                    happiness and career progression
                   </li>
                 </ul>
               </li>
