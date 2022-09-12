@@ -59,7 +59,7 @@ export default function Experience() {
                 Technical lead and line manager of the Case Analysis and Monitoring missions:
                 <ul>
                   <li>
-                    coordinated upto 4 cross functional squads solving loan data normalisation and visualisation, and loan analysis and monitoring workflows (Python & React)
+                    coordinated upto 4 cross functional squads solving loan data normalisation & visualisation, and monitoring and annual review workflows (Python & React)
                   </li>
                   <li>
                     optimised team processes for incremental delivery and high
