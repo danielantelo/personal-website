@@ -8,7 +8,7 @@ const MostRecent = styled.div`
   padding-bottom: 1em;
 
   @media print {
-    page-break-after: always;
+    break-after: auto;
     border-bottom: none;
     padding-bottom: 0;
   }
