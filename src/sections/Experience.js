@@ -28,19 +28,29 @@ export default function Experience() {
           additionalRole
         />
         <HistoricalListItem
-          title="Frontend Lead Engineer"
+          title="Engineering Lead"
           location="OakNorth, London"
           dates="September 2019 - Present"
         >
           <p>
-          Managing the delivery, career progression and well-being of ~25 engineers across multiple cross functional squads with a focus on product development and user experiences, as well as hands-on leading the Frontend Guild and its technical direction.
+            Part of the management team at this SaaS FinTech startup providing
+            vital support in the financial services sector across the US and
+            Europe in solving and optimising lending to SMEs. Managing the
+            delivery, career progression and well-being of ~25 engineers across
+            multiple cross functional squads with a focus on product development
+            and user experiences, as well as hands-on leading the Frontend Guild
+            and its technical direction.
           </p>
           <p>
             <ul>
               <li>
-                Frontend guild technical lead:
+                Frontend guild engineering lead:
                 <ul>
-                  <li>coordinated the frontend guild providing architectural direction and managing execution of frontend architectural projects and improvements</li>
+                  <li>
+                    coordinated the frontend guild providing architectural
+                    direction and managing execution of frontend architectural
+                    projects and improvements
+                  </li>
                   <li>
                     architected and led the migration to micro-frontends using
                     Lerna, Yarn Workspaces and github packages and workflows
@@ -50,16 +60,19 @@ export default function Experience() {
                     bespoke exercises with and without frameworks)
                   </li>
                   <li>
-                    designed and led the move to workflow driven e2e testing with
-                    visual regression in Cypress
+                    designed and led the move to workflow driven e2e testing
+                    with visual regression in Cypress
                   </li>
                 </ul>
               </li>
               <li>
-                Technical lead and line manager of the Case Analysis and Monitoring missions:
+                Engineering lead and line manager of the Case Analysis and
+                Monitoring missions:
                 <ul>
                   <li>
-                    coordinated upto 4 cross functional squads solving loan data normalisation & visualisation, and monitoring and annual review workflows (Python & React)
+                    coordinated upto 4 cross functional squads solving loan data
+                    normalisation & visualisation, and monitoring and annual
+                    review workflows (Python & React)
                   </li>
                   <li>
                     optimised team processes for incremental delivery and high
