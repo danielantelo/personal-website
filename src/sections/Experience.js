@@ -23,56 +23,65 @@ export default function Experience() {
     <Section title="Work Experience" description="Where I've worked">
       <MostRecent>
         <HistoricalListItem
-          title="Engineering Manager"
-          dates="October 2020 - Present"
-          additionalRole
-        />
-        <HistoricalListItem
-          title="Engineering Lead"
+          title="Engineering Manager & Lead Frontend Engineer"
           location="OakNorth, London"
           dates="September 2019 - Present"
         >
           <p>
             Part of the management team at this SaaS FinTech startup providing
             vital support in the financial services sector across the US and
-            Europe in solving and optimising lending to SMEs. Managing the
-            delivery, career progression and well-being of ~25 engineers across
-            multiple cross functional squads with a focus on product development
-            and user experiences, as well as hands-on leading the Frontend Guild
-            and its technical direction.
+            Europe in solving and optimising lending to SMEs.
+          </p>
+          <p>
+            I was the first Frontend engineer to join the team. Helped hire and
+            grow the frontend engineering team; personally designed the frontend
+            architecture and technical ecosystem, built initial working
+            prototypes and then coordinated the production ready implementation
+            and delivery through the frontend guild.
+          </p>
+          <p>
+            I took initiative to make change and lead teams through multiple
+            iterations of the product, always performing above expectation,
+            which saw me take on a lot of additional managerial
+            responsibilities, and finally settle into a hybrid Engineering
+            Manager/Principal Frontend role.
           </p>
           <p>
             <ul>
               <li>
-                Frontend guild engineering lead:
+                As the Frontend Lead I:
                 <ul>
                   <li>
-                    coordinated the frontend guild providing architectural
-                    direction and managing execution of frontend architectural
-                    projects and improvements
+                    coordinate the frontend guild providing architectural
+                    direction and execution of frontend projects and
+                    improvements
                   </li>
                   <li>
-                    architected and led the migration to micro-frontends using
-                    Lerna, Yarn Workspaces and github packages and workflows
+                    ensure high code confidence for continuous deployment of the
+                    web app via adequate testing such as workflow driven e2e
+                    testing and visual regression with Cypress, schema contract
+                    testing and unit testing
                   </li>
                   <li>
-                    setup the frontend engineering interview process (including
-                    bespoke exercises with and without frameworks)
-                  </li>
-                  <li>
-                    designed and led the move to workflow driven e2e testing
-                    with visual regression in Cypress
+                    manage the frontend engineering interview process (including
+                    bespoke exercises)
                   </li>
                 </ul>
               </li>
               <li>
-                Engineering lead and line manager of the Case Analysis and
-                Monitoring missions:
+                As an Engineering Manager I:
                 <ul>
                   <li>
-                    coordinated upto 4 cross functional squads solving loan data
-                    normalisation & visualisation, and monitoring and annual
-                    review workflows (Python & React)
+                    coordinated and manage the delivery of multiple
+                    cross-functional product focused squads tackling a variety
+                    of projects, including loan data normalisation &
+                    visualisation, monitoring and annual review workflows, and
+                    more recently climate impact analysis
+                  </li>
+                  <li>
+                    managed the career progression and well-being of 35
+                    engineers that have been a part of our teams (up to 20 at
+                    once)
                   </li>
                   <li>
                     optimised team processes for incremental delivery and high
