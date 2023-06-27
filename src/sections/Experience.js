@@ -28,23 +28,16 @@ export default function Experience() {
           dates="September 2019 - Present"
         >
           <p>
-            Part of the management team at this SaaS FinTech startup providing
-            vital support in the financial services sector across the US and
-            Europe in solving and optimising lending to SMEs.
-          </p>
-          <p>
-            I was the first Frontend engineer to join the team. Helped hire and
-            grow the frontend engineering team; personally designed the frontend
-            architecture and technical ecosystem, built initial working
-            prototypes and then coordinated the production ready implementation
-            and delivery through the frontend guild.
-          </p>
-          <p>
-            I took initiative to make change and lead teams through multiple
-            iterations of the product, always performing above expectation,
-            which saw me take on a lot of additional managerial
-            responsibilities, and finally settle into a hybrid Engineering
-            Manager/Principal Frontend role.
+            I was the first Frontend engineer to join this SaaS FinTech startup.
+            Helped hire and grow the frontend engineering team; personally
+            designed the frontend architecture and technical ecosystem, built
+            initial working prototypes and then coordinated the production ready
+            implementation and delivery through the frontend guild. I took
+            initiative to make change and lead teams through multiple iterations
+            of the product, always performing above expectation, which saw me
+            take on a lot of additional managerial responsibilities, and finally
+            settle into a hybrid Engineering Manager/Principal Frontend Engineer
+            role.
           </p>
           <p>
             <ul>
@@ -98,10 +91,9 @@ export default function Experience() {
           dates="May 2017 - September 2019"
         >
           <p>
-            Technical lead and javascript/node full stack engineer. Highlights
+            Team lead and javascript/node full stack engineer. Highlights
             include:
           </p>
-
           <ul>
             <li>
               led the development of the greenfield project Porter Digital (team
