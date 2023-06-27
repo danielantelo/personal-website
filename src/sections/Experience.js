@@ -64,11 +64,10 @@ export default function Experience() {
               As an Engineering Manager I:
               <ul>
                 <li>
-                  coordinated and manage the delivery of multiple
-                  cross-functional product focused squads tackling a variety of
-                  projects, including loan data normalisation & visualisation,
-                  monitoring and annual review workflows, and more recently
-                  climate impact analysis
+                  managed multiple cross-functional product focused squads
+                  tackling a variety of projects, including loan data
+                  normalisation & visualisation, monitoring and annual review
+                  workflows, and more recently climate impact analysis
                 </li>
                 <li>
                   managed the career progression and well-being of 35 engineers
