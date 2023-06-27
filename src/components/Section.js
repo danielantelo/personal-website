@@ -9,7 +9,7 @@ const Wrapper = styled.section`
   }
   @media print {
     background: #fff;
-    padding: 1.25rem 1.75rem;
+    padding: 1.15rem 1.75rem;
   }
 `
 

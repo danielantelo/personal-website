@@ -39,51 +39,48 @@ export default function Experience() {
             settle into a hybrid Engineering Manager/Principal Frontend Engineer
             role.
           </p>
-          <p>
-            <ul>
-              <li>
-                As the Frontend Lead I:
-                <ul>
-                  <li>
-                    coordinate the frontend guild providing architectural
-                    direction and execution of frontend projects and
-                    improvements
-                  </li>
-                  <li>
-                    ensure high code confidence for continuous deployment of the
-                    web app via adequate testing such as workflow driven e2e
-                    testing and visual regression with Cypress, schema contract
-                    testing and unit testing
-                  </li>
-                  <li>
-                    manage the frontend engineering interview process (including
-                    bespoke exercises)
-                  </li>
-                </ul>
-              </li>
-              <li>
-                As an Engineering Manager I:
-                <ul>
-                  <li>
-                    coordinated and manage the delivery of multiple
-                    cross-functional product focused squads tackling a variety
-                    of projects, including loan data normalisation &
-                    visualisation, monitoring and annual review workflows, and
-                    more recently climate impact analysis
-                  </li>
-                  <li>
-                    managed the career progression and well-being of 35
-                    engineers that have been a part of our teams (up to 20 at
-                    once)
-                  </li>
-                  <li>
-                    optimised team processes for incremental delivery and high
-                    code confidence following lean/agile methodologies
-                  </li>
-                </ul>
-              </li>
-            </ul>
-          </p>
+
+          <ul>
+            <li>
+              As the Frontend Lead I:
+              <ul>
+                <li>
+                  coordinate the frontend guild providing architectural
+                  direction and execution of frontend projects and improvements
+                </li>
+                <li>
+                  ensure high code confidence for continuous deployment of the
+                  web app via adequate testing such as workflow driven e2e
+                  testing and visual regression with Cypress, schema contract
+                  testing and unit testing
+                </li>
+                <li>
+                  manage the frontend engineering interview process (including
+                  bespoke exercises)
+                </li>
+              </ul>
+            </li>
+            <li>
+              As an Engineering Manager I:
+              <ul>
+                <li>
+                  coordinated and manage the delivery of multiple
+                  cross-functional product focused squads tackling a variety of
+                  projects, including loan data normalisation & visualisation,
+                  monitoring and annual review workflows, and more recently
+                  climate impact analysis
+                </li>
+                <li>
+                  managed the career progression and well-being of 35 engineers
+                  that have been a part of our teams (up to 20 at once)
+                </li>
+                <li>
+                  optimised team processes for incremental delivery and high
+                  code confidence following lean/agile methodologies
+                </li>
+              </ul>
+            </li>
+          </ul>
         </HistoricalListItem>
         <HistoricalListItem
           title="Senior Software Developer"
