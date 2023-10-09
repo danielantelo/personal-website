@@ -15,21 +15,22 @@ const Wrapper = styled.div`
 
 const Title = styled.h3`
   margin: 0;
+  font-size: 1.3rem;
 `
 
 const Location = styled.div`
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 `
 
 const Dates = styled.div`
-  font-size: 1.1rem;
+  font-size: 1rem;
   @media (min-width: 900px) {
-    margin-top: 8px;
+    margin-top: 5px;
     float: right;
   }
 
   @media print {
-    margin-top: 8px;
+    margin-top: 5px;
     float: right;
   }
 `

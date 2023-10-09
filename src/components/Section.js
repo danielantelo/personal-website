@@ -9,25 +9,25 @@ const Wrapper = styled.section`
   }
   @media print {
     background: #fff;
-    padding: 1.25rem 1.75rem;
+    padding: 1.2rem 1.75rem;
   }
 `
 
 const Title = styled.h2`
   border: 1px solid #252525;
   margin: 0 auto 1em;
-  padding: 0.5em;
+  padding: 0.4em 0;
   position: relative;
   text-align: center;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
 
   @media (min-width: 900px) {
     margin: 0 auto 1.5em;
-    max-width: 300px;
+    max-width: 280px;
   }
 
   @media print {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     margin: 0 auto 1em;
     max-width: 230px;
   }

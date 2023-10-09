@@ -23,7 +23,12 @@ export default function Experience() {
     <Section title="Work Experience" description="Where I've worked">
       <MostRecent>
         <HistoricalListItem
-          title="Engineering Manager & Lead Frontend Engineer"
+          title="Engineering Manager"
+          dates="October 2021 - Present"
+          additionalRole={true}
+        />
+        <HistoricalListItem
+          title="Lead Frontend Engineer"
           location="OakNorth, London"
           dates="September 2019 - Present"
         >
@@ -32,14 +37,11 @@ export default function Experience() {
             Helped hire and grow the frontend engineering team; personally
             designed the frontend architecture and technical ecosystem, built
             initial working prototypes and then coordinated the production ready
-            implementation and delivery through the frontend guild. I took
-            initiative to make change and lead teams through multiple iterations
-            of the product, always performing above expectation, which saw me
-            take on a lot of additional managerial responsibilities, and finally
-            settle into a hybrid Engineering Manager/Principal Frontend Engineer
-            role.
+            implementation and delivery through the frontend guild.
+            I took initiative to make change and lead teams through multiple iterations of the product, 
+            always performing above expectation and pushing for better processes and team dynamics which 
+            saw me take on a additional managerial responsibilities.
           </p>
-
           <ul>
             <li>
               As the Frontend Lead I:
@@ -66,7 +68,7 @@ export default function Experience() {
                 <li>
                   managed multiple cross-functional product focused squads
                   tackling a variety of projects, including loan data
-                  normalisation & visualisation, monitoring and annual review
+                  normalisation/visualisation, monitoring and annual review
                   workflows, and more recently climate impact analysis
                 </li>
                 <li>
@@ -77,6 +79,8 @@ export default function Experience() {
                   optimised team processes for incremental delivery and high
                   code confidence following lean/agile methodologies
                 </li>
+                <li>introduced bug bashing on feature flagged pre-releases to aid with confidence and quality</li>
+                <li>setup interviewing, onboarding rotations and roles/expectations frameworks</li>
               </ul>
             </li>
           </ul>
