@@ -23,65 +23,39 @@ export default function Experience() {
     <Section title="Work Experience" description="Where I've worked">
       <MostRecent>
         <HistoricalListItem
-          title="Engineering Manager"
-          dates="October 2021 - Present"
-          additionalRole={true}
-        />
-        <HistoricalListItem
-          title="Lead Frontend Engineer"
+          title="Lead Frontend Engineer / Engineering Manager"
           location="OakNorth, London"
           dates="September 2019 - Present"
         >
           <p>
-            I was the first Frontend engineer to join this SaaS FinTech startup.
-            Helped hire and grow the frontend engineering team; personally
-            designed the frontend architecture and technical ecosystem, built
-            initial working prototypes and then coordinated the production ready
-            implementation and delivery through the frontend guild.
-            I took initiative to make change and lead teams through multiple iterations of the product, 
-            always performing above expectation and pushing for better processes and team dynamics which 
-            saw me take on a additional managerial responsibilities.
+            I was the first Frontend Engineer to join this SaaS FinTech startup
+            and played a vital role in setting architecture, ways of working and
+            team organisation:
           </p>
           <ul>
             <li>
-              As the Frontend Lead I:
-              <ul>
-                <li>
-                  coordinate the frontend guild providing architectural
-                  direction and execution of frontend projects and improvements
-                </li>
-                <li>
-                  ensure high code confidence for continuous deployment of the
-                  web app via adequate testing such as workflow driven e2e
-                  testing and visual regression with Cypress, schema contract
-                  testing and unit testing
-                </li>
-                <li>
-                  manage the frontend engineering interview process (including
-                  bespoke exercises)
-                </li>
-              </ul>
+              reskinned of the platform ensuring a consistent look and feel
+              across products
             </li>
             <li>
-              As an Engineering Manager I:
-              <ul>
-                <li>
-                  managed multiple cross-functional product focused squads
-                  tackling a variety of projects, including loan data
-                  normalisation/visualisation, monitoring and annual review
-                  workflows, and more recently climate impact analysis
-                </li>
-                <li>
-                  managed the career progression and well-being of 35 engineers
-                  that have been a part of our teams (up to 20 at once)
-                </li>
-                <li>
-                  optimised team processes for incremental delivery and high
-                  code confidence following lean/agile methodologies
-                </li>
-                <li>introduced bug bashing on feature flagged pre-releases to aid with confidence and quality</li>
-                <li>setup interviewing, onboarding rotations and roles/expectations frameworks</li>
-              </ul>
+              designed the frontend architecture and built initial working
+              prototypes, including a via better shared component management
+            </li>
+            <li>
+              established the frontend interview process and helped hire 12
+              frontend engineers which I then coordinated via the frontend guild
+              providing architectural direction and execution of frontend
+              improvements
+            </li>
+            <li>
+              ensured high code confidence for continuous deployment of the web
+              app via adequate testing, feature flags, alerting and monitoring
+            </li>
+            <li>
+              coordinated the delivery of cross-functional product focused
+              squads tackling data normalisation/visualisation projects and
+              lined managed the engineers ensuring their well being and career
+              progression
             </li>
           </ul>
         </HistoricalListItem>
@@ -97,12 +71,12 @@ export default function Experience() {
           <ul>
             <li>
               led the development of the greenfield project Porter Digital (team
-              of 6 engineers)
+              of 6 engineers) using NextJS
             </li>
             <li>
-              helped change the ways of working and improve productivity for the
-              whole content department (4 teams): move to a monolith lerna repo,
-              improved CI and more testing focus
+              improved ways of working and productivity for the content
+              department (4 teams): move to a monolith lerna repo, improved CI
+              and more testing focus
             </li>
             <li>
               ran a cross team steering group to up our coding and testing
@@ -111,8 +85,6 @@ export default function Experience() {
             <li>ran a code club to help upskill engineers with focus on TDD</li>
           </ul>
         </HistoricalListItem>
-      </MostRecent>
-      <Rest>
         <HistoricalListItem
           title="Lead Web Developer"
           location="Student.com, London"
@@ -130,6 +102,8 @@ export default function Experience() {
             style guides (Sass/Sussy) and performance optimisation.
           </p>
         </HistoricalListItem>
+      </MostRecent>
+      <Rest>
         <HistoricalListItem
           title="Software Engineer II"
           location="Indra Software Labs, A Coruña (Spain)"
@@ -146,7 +120,7 @@ export default function Experience() {
           </p>
         </HistoricalListItem>
         <HistoricalListItem
-          title="Lead Developer"
+          title="Web Developer"
           location="Cambur, A Coruña (Spain)"
           dates="July 2010 - November 2011"
         >

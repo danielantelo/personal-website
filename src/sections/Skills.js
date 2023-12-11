@@ -45,10 +45,10 @@ export default function Skills() {
   return (
     <Section grey title="Skills & Knowledge" description="What I'm best at">
       <Highlight>
-        <h3>People Management</h3>
+        <h3>Software Development & Delivery</h3>
         <p>
-          Experience building and managing multitiered teams successfully
-          delivering software. People first mentality towards management.
+          Highly focused on continuous delivery and automated testing. Passion
+          for maintainable, extensible, reusable and readable code.
         </p>
       </Highlight>
       <Highlight>
@@ -59,12 +59,35 @@ export default function Skills() {
         </p>
       </Highlight>
       <Highlight>
+        <h3>People Management</h3>
+        <p>
+          Experience building and managing multitiered teams successfully
+          delivering software. People first mentality towards management.
+        </p>
+      </Highlight>
+
+      {/* <Highlight>
         <h3>Software Development & Delivery</h3>
         <p>
           Highly focused on continuous delivery and automated testing. Passion
           for maintainable, extensible, reusable and readable code.
         </p>
       </Highlight>
+      <Highlight>
+        <h3>Frontend Engineering</h3>
+        <p>
+          Pasionate about building great user experiences that are highly
+          performant, accessible and backed up by automated visual regression
+          tests.
+        </p>
+      </Highlight>
+      <Highlight>
+        <h3>Project Direction</h3>
+        <p>
+          Proven ability to lead development teams using agile methodologies and
+          continuous integration principles.
+        </p>
+      </Highlight> */}
       <Tech>
         <h3>Technical Expertise</h3>
         <SkillList>

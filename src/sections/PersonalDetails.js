@@ -23,7 +23,7 @@ const PersonaDetails = styled(Section)`
 
       &::after {
         font-family: Georgia;
-        content: "www.danielantelo.com \\A 07368 318 778 ";
+        content: "danielantelo@live.com \\A 07368 318 778 ";
         white-space: pre;
         color: black;
         font-size: 1rem;
