@@ -23,7 +23,7 @@ export default function Experience() {
     <Section title="Work Experience" description="Where I've worked">
       <MostRecent>
         <HistoricalListItem
-          title="Lead Frontend Engineer / Engineering Manager"
+          title="Senior Frontend Engineer / Engineering Manager"
           location="OakNorth, London"
           dates="September 2019 - Present"
         >
@@ -40,14 +40,12 @@ export default function Experience() {
             </li>
             <li>
               designed the frontend architecture and built initial working
-              prototypes, setting up appropriate tooling (yarn workspaces,
-              versioning, codegen, storybook, cypress and more)
+              prototypes, setting up appropriate tooling and processes
             </li>
             <li>
               established the frontend interview process and helped hire 12
-              frontend engineers which I then coordinated via the frontend guild
-              providing architectural direction and execution of frontend
-              improvements
+              frontend engineers which I then led via the frontend guild
+              providing technical direction and coordinating cross-squad work
             </li>
             <li>
               ensured high code confidence for continuous deployment of the web
