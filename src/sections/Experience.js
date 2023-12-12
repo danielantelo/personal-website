@@ -29,17 +29,19 @@ export default function Experience() {
         >
           <p>
             I was the first Frontend Engineer to join this SaaS FinTech startup
-            and played a vital role in setting architecture, ways of working and
-            team organisation:
+            and played a vital role in setting architecture vision, ways of
+            working and team organisation:
           </p>
           <ul>
             <li>
-              reskinned of the platform ensuring a consistent look and feel
-              across products
+              reskinned the platform to ensure a consistent look and feel across
+              products, refactored components to be shared in an initial design
+              system
             </li>
             <li>
               designed the frontend architecture and built initial working
-              prototypes, including a via better shared component management
+              prototypes, setting up appropriate tooling (yarn workspaces,
+              versioning, codegen, storybook, cypress and more)
             </li>
             <li>
               established the frontend interview process and helped hire 12
