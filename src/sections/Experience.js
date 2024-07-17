@@ -23,42 +23,81 @@ export default function Experience() {
     <Section title="Work Experience" description="Where I've worked">
       <MostRecent>
         <HistoricalListItem
-          title="Senior Frontend Engineer / Engineering Manager"
-          location="OakNorth, London"
-          dates="September 2019 - Present"
+          title="Engineering Manager"
+          location="Preqin, London"
+          dates="April 2023 - Present"
         >
           <p>
-            I was the first Frontend Engineer to join this SaaS FinTech startup
-            and played a vital role in setting architecture vision, ways of
-            working and team organisation:
+            Hired to build and manage 4 cross funcional product focused pods for
+            the Service Providers Business Unit. Setting interview strategy and
+            team processes. Participating in discovery and ensuring engineering
+            has full context, and overseeing the delivery of features.
+            Additionally, I took it upon myself to improve cross business unit
+            collaboration and communication introducing Guilds, Demos and
+            Hangouts for all engineers to share and sync.
+          </p>
+        </HistoricalListItem>
+        <HistoricalListItem
+          title="Software Engineer & Advisor (Contracting)"
+          location="Remote & London"
+          dates="December 2023 - March 2023"
+        >
+          <p>
+            Advising startups on setting the right foundations for web sites and
+            applications with a focus on frontend architecture, backend for
+            frontends and automated testing. Auditing their code and putting
+            forward proposals for improving. Frontend engineering to put the
+            right foundations in place and re-work existing features to be
+            performant.
+          </p>
+        </HistoricalListItem>
+        <HistoricalListItem
+          additionalRole
+          title="Engineering Manager"
+          dates="April 2021 - November 2023"
+        />
+        <HistoricalListItem
+          title="Senior Frontend Engineer / Technical Lead"
+          location="OakNorth, London"
+          dates="September 2019 - April 2021"
+        >
+          <p>
+            As the first Frontend Engineer to join this SaaS FinTech startup I
+            set the architecture vision, ways of working and grew the team.
+            Highlights include:
           </p>
           <ul>
             <li>
-              reskinned the platform to ensure a consistent look and feel across
-              products, refactored components to be shared in an initial design
-              system
+              grew frontend engineering to 12 engineers distributed across
+              multiple squads and managed the frontend guild coordinating the
+              implementation and delivery of shared architectural initiatives
+            </li>
+            <li>
+              manged up to 4 cross functional product squads
+              (React/Typescript/Python) ensuring they were balanced to undertake
+              the assigned discovery, delivery and support work
+            </li>
+            <li>
+              line managed 12+ engineers distributed across different teams
+              ensuring their wellbeing, job satisfaction and growth
             </li>
             <li>
               designed the frontend architecture and built initial working
-              prototypes, setting up appropriate tooling and processes
+              prototypes, setting up appropriate tooling and processes ensuring
+              high code confidence for continuous deployment via adequate
+              testing, feature flags, alerting and monitoring
             </li>
             <li>
-              established the frontend interview process and helped hire 12
-              frontend engineers which I then led via the frontend guild
-              providing technical direction and coordinating cross-squad work
-            </li>
-            <li>
-              ensured high code confidence for continuous deployment of the web
-              app via adequate testing, feature flags, alerting and monitoring
-            </li>
-            <li>
-              coordinated the delivery of cross-functional product focused
-              squads tackling data normalisation/visualisation projects and
-              lined managed the engineers ensuring their well being and career
-              progression
+              did the initial reskin of the whole application for a consistent
+              look and feel and ensured the different workflows were sharing the
+              same components
             </li>
           </ul>
         </HistoricalListItem>
+        <br />
+        <br />
+        <br />
+        <br />
         <HistoricalListItem
           title="Senior Software Developer"
           location="NET-A-PORTER, London"
@@ -74,13 +113,9 @@ export default function Experience() {
               of 6 engineers) using NextJS
             </li>
             <li>
-              improved ways of working and productivity for the content
-              department (4 teams): move to a monolith lerna repo, improved CI
-              and more testing focus
-            </li>
-            <li>
-              ran a cross team steering group to up our coding and testing
-              standards and ensure we were all in sync and sharing
+              ran a cross team steering group to improve coding/testing
+              standards and code sharing, this resulted in improved productivity
+              for the content department (4 teams)
             </li>
             <li>ran a code club to help upskill engineers with focus on TDD</li>
           </ul>
