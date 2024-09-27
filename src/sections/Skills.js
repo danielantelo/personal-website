@@ -45,24 +45,30 @@ export default function Skills() {
   return (
     <Section grey title="Skills & Knowledge" description="What I'm best at">
       <Highlight>
-        <h3>Software Development & Delivery</h3>
+        <h3>People Management</h3>
         <p>
-          Highly focused on continuous delivery and automated testing. Passion
-          for maintainable, extensible, reusable and readable code.
+          People first mentality towards management. I ensure teams feel
+          empowered and challenged through a culture of trust, transparency and
+          clearly defined expectations, encouraging all to bring ideas to the
+          table to ensure the best outcomes. A happy and empowered team will
+          never dissapoint!
         </p>
       </Highlight>
       <Highlight>
         <h3>Project Direction</h3>
         <p>
-          Proven ability to lead development teams using agile/lean
-          methodologies and continuous integration principles.
+          Proven ability to lead product focused teams using agile methodologies
+          and continuous integration principles, fostering a culture of
+          understanding user problems through discovery, feedback and metrics,
+          while embracing iterative/incremental delivery.
         </p>
       </Highlight>
       <Highlight>
-        <h3>People Management</h3>
+        <h3>Software Development & Delivery</h3>
         <p>
-          Experience building and managing multitiered teams successfully
-          delivering software. People first mentality towards management.
+          Always happy to get hands on! Passion for maintainable, extensible,
+          reusable and readable code. Highly focused on amazing user
+          experiences, continuous delivery and automated testing.
         </p>
       </Highlight>
 
@@ -93,20 +99,16 @@ export default function Skills() {
         <SkillList>
           <Skill>Typescript</Skill>
           <Skill>Javascript</Skill>
-          <Skill>HTML</Skill>
         </SkillList>
         <SkillList>
           <Skill>React</Skill>
           <Skill>NextJS</Skill>
-          <Skill>CSS / SASS / CSS-in-JS</Skill>
         </SkillList>
         <SkillList>
           <Skill>Micro Frontends</Skill>
-          <Skill>Lerna &amp; Yarn</Skill>
-          <Skill>Jest / Cypress</Skill>
+          <Skill>Serverless</Skill>
         </SkillList>
         <SkillList>
-          <Skill>Node</Skill>
           <Skill>GraphQL / REST APIs</Skill>
           <Skill>SQL / Mongo</Skill>
         </SkillList>

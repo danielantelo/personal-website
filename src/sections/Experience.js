@@ -28,13 +28,15 @@ export default function Experience() {
           dates="April 2023 - Present"
         >
           <p>
-            Hired to build and manage 4 cross funcional product focused pods for
-            the Service Providers Business Unit. Setting interview strategy and
-            team processes. Participating in discovery and ensuring engineering
-            has full context, and overseeing the delivery of features.
-            Additionally, I took it upon myself to improve cross business unit
-            collaboration and communication introducing Guilds, Demos and
-            Hangouts for all engineers to share and sync.
+            Hired to build and manage the new Service Providers Business Unit.
+            From a single cross functional team of 1 PM, 1 Designer and 2
+            Engineers to 12 engineers , 4 PMs and 3 Designers across 4 product
+            focused pods. Fostering a culture of understanding user problems
+            through discovery, feedback and metrics, while embracing
+            iterative/incremental delivery of great user experiences of high
+            impact. As well as a culture of sharing and collaborating more
+            across business units by introducing Guilds, Demos and Hangouts for
+            all.
           </p>
         </HistoricalListItem>
         <HistoricalListItem
